@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Lombok</string>
+    <string name="nama">Nama</string>
+    <string name="detail">Detail</string>
+    <string name="pantai">Pantai</string>
+    <string name="pegunungan">Pegunungan</string>
+    <string name="air_terjun">Air Terjun</string>
+</resources>
